@@ -1,8 +1,5 @@
 <h2 align="center">Hi 👋, I'm Daniel Zielinski</h2>
-<h4 align="left">I am a 21-year old Computer Science student. I am mostly focused on Front End development, but I also made some projects in Python and C++. Interested in technology, video games and sports.</h4>
-
-- 🌱 I’m currently learning everything I can!
-- 🔭 I’m currently working on university projects
+<h4 align="left">I am a 22-year-old Computer Science student. I am mostly focused on Front End development, but I also made some projects in Python and C++. Interested in technology, video games and sports.</h4>
 
 # 💻 Languages and Tools used:
 <!-- Front End -->
