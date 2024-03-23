@@ -9,11 +9,11 @@
 
 ## 💻 Languages and Tools used:
 
-[![My Skills](https://skillicons.dev/icons?i=css,html,js,react,nodejs,figma,firebase,py,vscode,&theme=dark)](https://skillicons.dev) 
+[![My Skills](https://skillicons.dev/icons?i=css,html,js,react,nodejs,figma,py,vscode,&theme=dark)](https://skillicons.dev) 
 
 #### Others
 
-[![My Skills](https://skillicons.dev/icons?i=androidstudio,anaconda,cpp,cs,express,jest,jquery,netlify,mysql,postgres,django,redis,visualstudio,sqlite,git,&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=androidstudio,anaconda,cpp,cs,express,jest,jquery,netlify,mysql,postgres,django,redis,visualstudio,sqlite,git,firebase,&theme=dark)](https://skillicons.dev)
  
 
 
