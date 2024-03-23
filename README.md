@@ -1,5 +1,5 @@
 <h2 align="center">Hi 👋, I'm Daniel Zielinski</h2>
-<h4 align="left">I am a 22-year-old Computer Science student. I am mostly focused on Front End development, but I also made some projects in Python and C++. Interested in technology, video games and sports.</h4>
+<h4 align="left">I am a 22-year-old Computer Science student. I am mostly focused on Front End and Mobile development, but I also made some projects in Python and C++. Interested in technology, video games and sports.</h4>
 
 # 💻 Languages and Tools used:
 <!-- Front End -->
@@ -33,23 +33,9 @@
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Dajuuu&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Dajuuu&theme=tokyonight&hide_border=false)<br/>
-<!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Dajuuu&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact) -->
-
+<!-- ![](https://github-readme-stats.vercel.app/api?username=Dajuuu&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/> -->
+![](https://github-readme-streak-stats.herokuapp.com/?user=Dajuuu&theme=cobalt&hide_border=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Dajuuu&theme=cobalt&hide_border=true&include_all_commits=false&count_private=true&layout=donut&hide_progress=true)
+</br >
 ![Snake animation](https://raw.githubusercontent.com/Dajuuu/Dajuuu/output/github-contribution-grid-snake-dark.svg)
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-<!--
-**Dajuuu/Dajuuu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
