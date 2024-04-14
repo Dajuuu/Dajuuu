@@ -19,8 +19,10 @@
 
 ## 📊 GitHub Stats:
 <!-- ![](https://github-readme-stats.vercel.app/api?username=Dajuuu&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/> -->
+![Snake animation](https://raw.githubusercontent.com/Dajuuu/Dajuuu/output/github-contribution-grid-snake-dark.svg)
+</br >
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Dajuuu&theme=cobalt&hide_border=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Dajuuu&theme=cobalt&hide_border=true&include_all_commits=false&count_private=true&layout=donut&hide_progress=true)
 </br >
-![Snake animation](https://raw.githubusercontent.com/Dajuuu/Dajuuu/output/github-contribution-grid-snake-dark.svg)
+
 
