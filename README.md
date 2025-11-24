@@ -1,11 +1,4 @@
 <h1 align="center">Hi 👋, I'm Daniel</h1>
-<h3 align="center">💻 Software developer </h3> </br>
-
-> <ul>
-> <li><b>🎓 Computer Science student at Goldsmiths, University of London </b> </br>
-> <li><b>📱 Mostly focused on Front End and Mobile development, but I also have projects in other fields </br>
-> <li><b>🧠 Interested in technology, video games and sports</b>
-> </ul>
 
 ## 💻 Languages and Tools used:
 
